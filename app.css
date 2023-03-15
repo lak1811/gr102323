@@ -1,0 +1,40 @@
+
+
+
+
+/*Color of the buttons */
+.buttoncolor{
+  color: black;
+
+/*The picture in the profilebar of a user*/
+}
+
+
+/* MAIN LK begin*/
+#main1pic-lk{
+  width: 750px;
+ height: 550px;
+ position: relative; bottom: 10px; right: 10px;
+
+}
+#main2pic-lk{
+width: 745px;
+height: 550px;
+position: relative; bottom: 10px; left: 30px;
+}
+
+#div1-lk{
+  width: 200px;
+  height: 50px;
+  background-color: #4ef57b;
+  position: relative;bottom: 84px; 
+} 
+
+#div2-lk{
+  width: 500px;
+  height: 50px;
+  background-color: #4ef57b;
+  position: relative; left: 550px; bottom: 100px;
+  text-align: center;
+}
+/* MAIN LK end */
